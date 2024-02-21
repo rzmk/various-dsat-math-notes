@@ -13,7 +13,7 @@ A **supplemental resource** of notes based on various resources for individuals 
 
 ## 📢 Disclaimer
 
-Originally authored by [Mueez Khan](https://www.mueezkhan.com).
+Organized by [Mueez Khan](https://www.mueezkhan.com), based on material(s) attributed within the notes.
 
 If there are any errors in this document, please let me know by [contacting me](https://www.mueezkhan.com/contact) or opening an [issue](https://github.com/rzmk/various-dsat-math-notes/issues) and/or [pull request](https://github.com/rzmk/various-dsat-math-notes/pulls). Fixes are greatly appreciated!
 
